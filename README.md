@@ -33,13 +33,11 @@ Done by Serg Malyshka. Regex for the hexValidator function sourced through here:
 
 Standard MIT license
 
-
 ## Testing
 
 Run `npm run test` command after installation is complete to run all the testing
 
 ## Video Link
 
-https://drive.google.com/file/d/1o06IvQurXGqD6TwPQynB7DWjzLUA19g6/view
-
+https://drive.google.com/file/d/1bkAXEusZutriLBQxJTDM4Vwnig3MVCFS/view
 
